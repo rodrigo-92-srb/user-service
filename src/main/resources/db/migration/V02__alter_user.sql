@@ -1,0 +1,1 @@
+ALTER TABLE user CHANGE COLUMN nome name VARCHAR(255);
